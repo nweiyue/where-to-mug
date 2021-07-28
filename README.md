@@ -1,5 +1,4 @@
-# Where To Mug
-
+Hello
 <!-- TABLE OF CONTENTS -->
 <details open="open">
   <summary>Table of Contents</summary>
